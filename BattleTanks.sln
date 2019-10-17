@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleTanks", "BattleTanks\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AStar", "AStar\AStar.csproj", "{BFE2D123-8294-4050-8F58-056E9F9114F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{21C9C276-AFE0-4B86-938C-F0CDC1C93F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{BFE2D123-8294-4050-8F58-056E9F9114F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFE2D123-8294-4050-8F58-056E9F9114F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFE2D123-8294-4050-8F58-056E9F9114F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21C9C276-AFE0-4B86-938C-F0CDC1C93F25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21C9C276-AFE0-4B86-938C-F0CDC1C93F25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21C9C276-AFE0-4B86-938C-F0CDC1C93F25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21C9C276-AFE0-4B86-938C-F0CDC1C93F25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
